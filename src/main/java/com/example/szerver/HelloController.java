@@ -34,7 +34,6 @@ public class HelloController {
     }
 
     ArrayList<String> Szerverlapok = new ArrayList<>();
-    ArrayList<String> Szerverlapokertek = new ArrayList<>();
     ArrayList<String> Klienslapok = new ArrayList<>();
 
 
